@@ -4,5 +4,4 @@ public class Test1 {
 	
 	private String hello = "say hello";
         private String update = "update in Git";
-	private String updateAgain = "update again";
 }
