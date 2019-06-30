@@ -9,5 +9,5 @@ public class Test1 {
         //update in master
 	    //update in local and push to master
 	    //update in local to make conflict
-	    //update in master to make confict
+	    //update in master to make conflict,this is correctly for myself
 }
