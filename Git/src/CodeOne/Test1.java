@@ -8,4 +8,5 @@ public class Test1 {
 	private String updateBeforLocalSaySorry = "you are wecome";
         //update in master
 	    //update in local and push to master
+	    //update in master to make confict
 }
